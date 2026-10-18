@@ -10,7 +10,18 @@ Freelancers often paste private client requirements into hosted AI services. Quo
 
 ## Demo
 
-Run it locally, then record the browser flow. The core demo is: paste a realistic client request → generate → review the quote → Print / Save PDF.
+[![Watch the QuoteCraft AI Demo](docs/demo-thumbnail.png)](https://drive.google.com/file/d/1-FEvWSB5JBfv1WoeFN3z78ffahvghsgJ/view?usp=sharing)
+
+QuoteCraft AI turns a messy client request into a structured, professional quote draft using Gemma 4 E4B running locally through Ollama.
+
+The demo shows the complete workflow:
+
+1. Enter a freelancer's service and client request.
+2. Provide the budget and deadline.
+3. Generate the quote with local Gemma inference.
+4. Review the structured scope, deliverables, timeline, pricing, exclusions, payment terms, and client-ready message.
+
+[Watch the full demo](https://drive.google.com/file/d/1-FEvWSB5JBfv1WoeFN3z78ffahvghsgJ/view?usp=sharing)
 
 ## Stack
 
